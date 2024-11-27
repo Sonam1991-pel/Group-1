@@ -1,0 +1,31 @@
+Key Models
+1. Supervised Learning Models:
+o Random Forests and Support Vector Machines (SVMs) for classifying network traffic as normal or malicious.
+o Deep Neural Networks (DNNs) and Convolutional Neural Networks (CNNs) for intrusion detection.
+
+2. Unsupervised Learning Models:
+o Autoencoders for anomaly detection by identifying deviations from learned normal patterns.
+o Clustering algorithms like K-Means to detect unusual network behaviour without labeled data.
+
+3. Hybrid Models:
+o Combining supervised and unsupervised learning to detect both known and unknown threats.
+
+4. Reinforcement Learning: For adaptive models that improve over time by learning from feedback in real-time detection scenarios.
+
+5. Self-Evolving Detection Systems (SEDS):
+o Incorporate machine learning (ML) and deep learning for continuous adaptation to new threats, leveraging large-scale threat intelligence datasets​
+
+https://www.paloaltonetworks.com/cyberpedia/ai-in-threat-detection
+
+https://www.fortinet.com/content/dam/fortinet/assets/ebook/ebook-using-ai-to-address-advanced-threats.pdf
+ 
+​
+ 
+.
+Practical Tools and Platforms
+• Microsoft Defender for Cloud: Offers AI-driven threat detection for cloud networks and integrates with other security tools for centralised monitoring​
+https://learn.microsoft.com/en-us/azure/defender-for-cloud/ai-threat-protection.
+
+• Fortinet’s Security Fabric: Uses AI for malware detection, anomaly identification, and proactive threat intelligence updates​
+https://www.fortinet.com/content/dam/fortinet/assets/ebook/ebook-using-ai-to-address-advanced-threats.pdf
+ 
